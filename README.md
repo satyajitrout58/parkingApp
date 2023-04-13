@@ -26,5 +26,6 @@ parkingApp
   You can see the home getparking and release parking function 
   
   navigate to unboarde parking you can find the unboard parking functionality 
+  
   frontend is running at http://localhost:3000/
   
