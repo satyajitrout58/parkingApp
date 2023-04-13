@@ -4,6 +4,7 @@ parkingApp
 # It contains Both Frontend and Backend
 
 #Backend is created with node, express, mango
+  
   to run the backend serven you need to navigate to server folder 
   
   run npm install 
