@@ -1,0 +1,3 @@
+GET http://localhost:5000/getSlot/AirPort/Medium
+
+//GET http://localhost:5000/releaseSlot/AirPort/642b2739d41af7ff65e19779
